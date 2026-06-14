@@ -1,8 +1,8 @@
 import React, {useState, useEffect} from "react";
 import {
   Main,
-  Timeline,
-  Education,
+//   Timeline,
+//   Education,
   Expertise,
   Project,
   Contact,
